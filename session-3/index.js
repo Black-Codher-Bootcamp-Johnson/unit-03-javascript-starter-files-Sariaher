@@ -9,3 +9,24 @@ console.log(thisIsNumber)
 let name = 'Sarika';
 var age = 10;
 console.log(name)
+
+function SayHey()  {
+    console.log ('hey!')
+}  
+
+function conversation () {
+    SayHey();     
+    console.log('How are you?')    
+    console.log('Goodbye');                  
+}
+conversation()
+
+
+function futureage(name, age) {
+    let answer =age + 5;
+    return "Hi"  + name + "!" + "You will" + answer + "Years old in 5 years"
+}
+    console.log(futureage("Jerry", 22))
+
+
+
