@@ -90,6 +90,13 @@ const muldiv =  x * x /y;
 // ****************************************************TASK 3****************************************************
 
 
+const personsage = 20;
+const minimumdrivingage = 18;
+
+const isagecorrectfordriving = personsage >  minimumdrivingage;
+console.log( 'is age correct for driving?' + isagecorrectfordriving);  //true
+const isLessAgeForDriving = personsage < minimumdrivingage; 
+console.log('is age not correct for driving' + isLessAgeForDriving); 
 
 
 
