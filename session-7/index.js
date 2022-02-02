@@ -1,8 +1,20 @@
 // ****************************************************TASK 1****************************************************
+const animals =  ['cat', 'dog', 'cow', 'fox', 'horse'];
+// for (let i =0; i < animals, length; i++) {
+// const animal  = animals(i);
+ 
+// console.log(animal);
 
+// }
 
+// console.log(animals [0]);
+// console.log(animals [1]);
+// console.log(animals [2]);
+// console.log(animals [3]);
+// console.log(animals [4]);
 
-
+animals.pop()
+console.log(animals)
 
 
 
@@ -15,8 +27,13 @@
 
 
 // ****************************************************TASK 2****************************************************
+const name = ['Sagar', 'Abbie', 'Megha', 'Jaya', 'Shriya', 'Zeeva' ];
+name.sort().reverse();
+console.log(name);
 
-
+const number  = ['10', '1000', '500', '8', '700']
+number.sort((a,b)=> a -b);
+console.log(number);
 
 
 
