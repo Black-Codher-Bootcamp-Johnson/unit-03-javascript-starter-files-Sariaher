@@ -1,0 +1,53 @@
+[33mcommit 8d74d8b547e8524aab7e0c09a28f36de4e736f21[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: sari <you@example.com>
+Date:   Wed Feb 2 19:40:49 2022 +0000
+
+    sorting_arrays
+
+[33mcommit a0d468ebcb52f394befdff8b4508846622b47a4e[m
+Author: sari <you@example.com>
+Date:   Mon Jan 31 19:31:03 2022 +0000
+
+    For loop
+
+[33mcommit 75da2e0bebc2a1e6d7b743bfdd9e83e98941dd13[m
+Author: sari <you@example.com>
+Date:   Mon Jan 31 18:53:10 2022 +0000
+
+    whileloop
+
+[33mcommit 829ca5fce5a076526955fde08adf1ccb03b348cf[m
+Author: sari <you@example.com>
+Date:   Wed Jan 26 20:12:48 2022 +0000
+
+    switchs
+
+[33mcommit c4fd85c593cc8a91bf7f09935cad5445883631e4[m
+Author: sari <you@example.com>
+Date:   Mon Jan 24 21:19:07 2022 +0000
+
+    operators
+
+[33mcommit 4658e703eb9dda8829021c252ff2df4519dba5e2[m
+Author: sari <you@example.com>
+Date:   Mon Jan 24 20:07:18 2022 +0000
+
+    maths operators in JS
+
+[33mcommit 1ad22c90a05408949576ab582961966a1593c706[m
+Author: sari <you@example.com>
+Date:   Wed Jan 19 20:46:57 2022 +0000
+
+    added function with parameters
+
+[33mcommit 6d7bd4c431184ccc621613d60b719a41b4e8f9fd[m
+Author: sari <you@example.com>
+Date:   Wed Jan 19 19:10:43 2022 +0000
+
+    cahnge of variables
+
+[33mcommit d17f0c7fe46eb37c135542079e430ea52e602b63[m
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Mon Jan 17 18:27:43 2022 +0000
+
+    Initial commit
